@@ -23,3 +23,7 @@ Github:https://github.com/miosagawa/10_Portfolio_MioSagawa.git
     Link to the GitHub repository
 
     Screenshot of the deployed application
+
+    __Project sample:__
+
+![sample](sample.png)
