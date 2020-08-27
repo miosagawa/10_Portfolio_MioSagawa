@@ -2,7 +2,17 @@ Folder update content:
 Update date：July 31, 2020
 
 URL:https://miosagawa.github.io/10_Portfolio_MioSagawa/index.html
+
+
 Github:https://github.com/miosagawa/10_Portfolio_MioSagawa.git
+
+
+
+    __Project sample:__
+
+![sample](sample1.png)
+![sample](sample2.png)
+
 
 1.Portfolio_MioSagawa（Created according to the following conditions）
 
